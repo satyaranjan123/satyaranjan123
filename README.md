@@ -1,9 +1,8 @@
 ## Hey 👋, I'm Satya Ranjan Mishra!
 <a href='https://www.linkedin.com/in/satya-mishra-6a86361a6/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/satyaranjan123/satyaranjan123/ba8c014868685ecf4a07d7a10f651bb899d5e681/assets/linkedin.svg" height='18px'/></a>
 
-
+<br>
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br/>
 <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/satyaranjan123/satyaranjan123/main/techstack.gif" width="360px"/>
